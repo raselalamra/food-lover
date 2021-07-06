@@ -50,7 +50,57 @@ h1{
    
 }
 .hungry1{
-    background-image: url(images/dream-bg.png);
+    background-image: url(images/frem.jpg);
     background-repeat: no-repeat;
     background-position: right;
+}
+.burger{
+    width: 25%;
+    margin-left: 3%;
+    margin-right: 2%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px grey;
+
+}
+.burger img{
+    width: 353px;
+    margin-top: 4%;
+    border-radius: 15px;
+}
+#br{
+    height: 500px;
+}
+.pizza{
+    width: 25%;
+    margin-left: 3%;
+    margin-right: 2%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px grey;
+
+}
+.pizza img{
+    width: 353px;
+    margin-top: 4%;
+    border-radius: 15px;
+}
+#pz{
+    height: 500px;
+}
+.noodles{
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px grey;
+
+}
+.noodles img{
+    width: 353px;
+    margin-top: 4%;
+    border-radius: 15px;
+}
+#ns{
+    height: 500px;
 }
