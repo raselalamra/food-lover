@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 42px;
+    margin-top: 90px;
+}
+.foodi1{
+    color: tomato;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+.foodi{
+    padding-left: 5%;
+}
+.foodi img{
+    margin-left: 50%;
+
+}
+.order{
+    margin-top: 30px;
+}
+.order-now{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5%;
+}
