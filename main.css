@@ -5,6 +5,7 @@ h1{
     font-size: 42px;
     margin-top: 90px;
 }
+
 .foodi1{
     color: tomato;
 }
@@ -30,4 +31,26 @@ h1{
     color: white;
     font-weight: 700;
     border-radius: 5%;
+}
+.hungry img{
+    width: 60%;
+    padding-left: 5%;
+}
+.read-more1{
+    margin-top: 30px;
+}
+
+.read-more{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5%;
+   
+}
+.hungry1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
